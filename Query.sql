@@ -1,0 +1,6 @@
+SELECT NomeAluno FROM AlunosDataBase 
+
+
+
+
+
